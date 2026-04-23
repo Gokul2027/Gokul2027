@@ -1,5 +1,7 @@
 # Hi 👋, I'm Gokul A
 
+[🌐 Portfolio](https://gokulwork2.lovable.app/)
+
 ### 🎓 B.Tech Information Technology Student @ SRM IST Ramapuram | CGPA: 9.77/10 | Batch of 2027
 
 ---
