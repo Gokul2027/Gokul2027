@@ -15,7 +15,7 @@
 - 🏆 Achieved **CGPA: 9.77/10** at SRM IST Ramapuram
 - 📄 **Presented a research paper** at ISTSW International Conference (Apr 2026) on Location-Based Reminder App
 - 🎯 Passionate about **Full-Stack Development, Machine Learning & Cybersecurity**
-- ⚡ Fun fact: I'm also a **Football Player** 🏈
+- ⚡ I like to play **Football Player** ⚽
 
 ---
 
