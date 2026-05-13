@@ -2,30 +2,15 @@
 
 <div align="center">
 
-<div align="center">
-
-# Gokul A
-
-### Full Stack Developer • AI & Android Enthusiast
-
-<br>
-
-<a href="https://gokulwork2.lovable.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Explore%20Now-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_RESUME_LINK">
-  <img src="https://img.shields.io/badge/📄%20Resume-View%20PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3200&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Smart+and+Scalable+Applications;AI+%7C+Flask+%7C+Android+Development;Passionate+About+Real+World+Problem+Solving"/>
-
-</div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Android+%26+Flask+Projects;Always+Learning+New+Technologies"/>
+<p align="center">
+  <a href="https://gokulwork2.lovable.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1iiOvMCaXWD-7DJS4thuzzmiqStn-Hwbx/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume-View-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 ### 🎓 B.Tech Information Technology Student @ SRM IST Ramapuram | CGPA: 9.77/10 | Batch of 2027
