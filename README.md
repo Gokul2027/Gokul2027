@@ -10,8 +10,7 @@
 
 ---
 
-- 🔭 I'm currently working on a **[Location-Based Reminder App (Geofencing)](https://github.com/Gokul2027)**
-- 🌱 I'm currently exploring **React, TypeScript, and Cloud Computing**
+- 🌱 I'm currently exploring **React, and Cloud Computing**
 - 🏆 Achieved **CGPA: 9.77/10** at SRM IST Ramapuram
 - 📄 **Presented a research paper** at ISTSW International Conference (Apr 2026) on Location-Based Reminder App
 - 🎯 Passionate about **Full-Stack Development, Machine Learning**
@@ -34,7 +33,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -101,7 +99,12 @@ Responsive platform to **browse, search, filter events** and experience simulate
 Full-stack system with **role-based access** (Admin, Doctor, Patient) for efficient patient-doctor interaction and scheduling. Structured DB design with a responsive frontend.
 
 ---
+### 🏥 [Sports Pulse](https://github.com/Gokul2027/Sports-Pulse_final)
+> `Python` `Flask`  `SQLite` `HTML` `CSS` `JavaScript`
 
+Dynamic sports management platform for managing sports events, registrations, schedules, and team activities with an interactive and responsive web interface. Designed with structured backend integration and smooth user experience for students and organizers.
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
