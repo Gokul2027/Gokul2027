@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gokul A
 
-div align="center">
+<div align="center">
 
 <a href="https://gokulwork2.lovable.app/">
   <img src="https://img.shields.io/badge/Portfolio-Website-0d1117?style=for-the-badge
