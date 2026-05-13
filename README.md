@@ -144,6 +144,7 @@ Dynamic sports management platform for managing sports events, registrations, sc
 **📌 International Conference Paper** — *Location-Based Reminder App using Geofencing* (Apr 2026)
 > Presented at **ISTSW, East Godavari, Andhra Pradesh** — showcasing real-time geofencing for productivity and task management.
 > ISBN: - 978-81-69206-65-5
+> - ⚡ **Participant** — NeXathon'25 (NEXUS)
 > 📍 [Location-Based Reminder App (Geofencing)-Base Paper](https://drive.google.com/file/d/1YTfYcr-zcCuzMnsxh7O5KFKMI1ATIaBv/view?usp=sharing)
 
 ---
