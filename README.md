@@ -107,13 +107,7 @@ Dynamic sports management platform for managing sports events, registrations, sc
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokul2027&show_icons=true&theme=tokyonight&hide_border=true" alt="Gokul's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul2027&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul2027&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
