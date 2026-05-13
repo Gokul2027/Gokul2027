@@ -1,14 +1,27 @@
 # Hi 👋, I'm Gokul A
 
+<div align="center">
+
+# Gokul A  
+### B.Tech Information Technology Student | Full Stack & AI Enthusiast
+
 <p align="center">
   <a href="https://gokulwork2.lovable.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   
-  <a href="https://drive.google.com/file/d/1iiOvMCaXWD-7DJS4thuzzmiqStn-Hwbx/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20Resume-View-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/📄%20Resume-Download-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Gokul2027">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Android+%26+Flask+Projects;Always+Learning+New+Technologies"/>
+
+</div>
 ### 🎓 B.Tech Information Technology Student @ SRM IST Ramapuram | CGPA: 9.77/10 | Batch of 2027
 
 ---
