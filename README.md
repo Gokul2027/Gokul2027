@@ -132,8 +132,7 @@ Dynamic sports management platform for managing sports events, registrations, sc
 ## 🏆 Awards & Competitions
 
 - 🥉 **3rd Place** — Department Project Day, IT Department (Oct 2024)
-- 🥉 **3rd Prize** — Cognisance, Department of IT SRM RMP
-- 🏁 **Finalist** — SPRINTATHON, Department of ECE ST. JOSEPH
+- 🏁 **Finalist** — SPRINTATHON(National Level Hackathon), Department of ECE ST. JOSEPH
 - 🧬 **Participant** — V-MEDITHON (CYSCOM & NEXUS)
 - ⚡ **Participant** — NeXathon'25 (NEXUS)
 - 💻 **Participant** — HACKERZ THIRUVIZHA (CODE ON JVM Chennai)
