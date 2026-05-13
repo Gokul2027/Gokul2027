@@ -2,10 +2,13 @@
 
 <p align="center">
   <a href="https://gokulwork2.lovable.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Gokul%20A-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1iiOvMCaXWD-7DJS4thuzzmiqStn-Hwbx/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume-View-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
-
 ### 🎓 B.Tech Information Technology Student @ SRM IST Ramapuram | CGPA: 9.77/10 | Batch of 2027
 
 ---
