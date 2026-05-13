@@ -115,7 +115,7 @@ Dynamic sports management platform for managing sports events, registrations, sc
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications  [certificate link](https://drive.google.com/drive/folders/1Moahptb78BGJZ2PNscToHKLoWLLX0iMX?usp=sharing)
 
 | 🏅 Certification | 🏢 Issuer |
 |---|---|
