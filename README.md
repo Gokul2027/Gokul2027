@@ -1,6 +1,10 @@
 # Hi 👋, I'm Gokul A
 
-[🌐Portfolio](https://gokulwork2.lovable.app/)
+<p align="center">
+  <a href="https://gokulwork2.lovable.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Gokul%20A-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ### 🎓 B.Tech Information Technology Student @ SRM IST Ramapuram | CGPA: 9.77/10 | Batch of 2027
 
