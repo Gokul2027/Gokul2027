@@ -58,42 +58,42 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Phishing Detector Extension](https://github.com/Gokul2027)
+### 🛡️ [Phishing Detector Extension](https://github.com/Gokul2027/AI-Phishing-Detection-Extension-work)
 > `Python` `Flask` `Scikit-learn` `JavaScript` `HTML/CSS` `JSON`
 
 Full-stack browser extension for **real-time phishing detection**. Uses a JS frontend to extract URLs and a Flask/ML backend to classify threats — giving users instant security alerts.
 
 ---
 
-### 🤖 [SRM Info ChatBot](https://github.com/Gokul2027)
+### 🤖 [SRM Info ChatBot](https://github.com/Gokul2027/SRM-INFO-ChatBot)
 > `Python` `TensorFlow` `NLTK` `NumPy` `Flask`
 
 Conversational AI powered by a **Feedforward Neural Network** to classify student queries (admissions, exams, events). Automates institutional support with NLTK preprocessing.
 
 ---
 
-### 📧 [Hospital Email Classifier](https://github.com/Gokul2027)
+### 📧 [Hospital Email Classifier](https://github.com/Gokul2027/HACKERS_THIRUVIZHA)
 > `Python` `Pandas` `NumPy` `Scikit-Learn` `Flask`
 
 ML model with **TF-IDF preprocessing** to classify hospital emails (spam, appointments, reports, queries) — helping hospitals prioritize critical communications in real time.
 
 ---
 
-### 📍 [Location-Based Reminder App (Geofencing)](https://github.com/Gokul2027)
+### 📍 [Location-Based Reminder App (Geofencing)](https://github.com/Gokul2027/SmartReminderApp)
 > `Kotlin` `Android SDK` `Google Maps API` `Geofencing API`
 
 Android app that triggers **smart reminders based on location** using geofencing and real-time location APIs. Also presented as a **research paper** at an international conference (Apr 2026).
 
 ---
 
-### 🎥 [Live Event Streaming Website](https://github.com/Gokul2027)
+### 🎥 [Live Event Streaming Website](https://github.com/Gokul2027/EventLivework2)
 > `React` `TypeScript`
 
 Responsive platform to **browse, search, filter events** and experience simulated live streaming with chat — built with modern React and TypeScript.
 
 ---
 
-### 🏥 [Healthcare Appointment Scheduling System](https://github.com/Gokul2027)
+### 🏥 [Healthcare Appointment Scheduling System](https://github.com/Gokul2027/Health_Care-Appointment)
 > `Python` `Flask` `SQLAlchemy` `SQLite` `HTML` `CSS` `JavaScript`
 
 Full-stack system with **role-based access** (Admin, Doctor, Patient) for efficient patient-doctor interaction and scheduling. Structured DB design with a responsive frontend.
