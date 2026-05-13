@@ -14,7 +14,7 @@
 - 🌱 I'm currently exploring **React, TypeScript, and Cloud Computing**
 - 🏆 Achieved **CGPA: 9.77/10** at SRM IST Ramapuram
 - 📄 **Presented a research paper** at ISTSW International Conference (Apr 2026) on Location-Based Reminder App
-- 🎯 Passionate about **Full-Stack Development, Machine Learning & Cybersecurity**
+- 🎯 Passionate about **Full-Stack Development, Machine Learning**
 - ⚡ I like to play **Football** ⚽
 
 ---
