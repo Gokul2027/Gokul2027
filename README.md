@@ -1,14 +1,15 @@
 # Hi 👋, I'm Gokul A
 
-<div align="center">
-<br/>
+div align="center">
 
 <a href="https://gokulwork2.lovable.app/">
-  <img src="https://img.shields.io/badge/portfolio-website-161b22?style=flat-square&logo=googlechrome&logoColor=8b949e&labelColor=161b22&color=21262d"/>
+  <img src="https://img.shields.io/badge/Portfolio-Website-0d1117?style=for-the-badge
+  &logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
 </a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1iiOvMCaXWD-7DJS4thuzzmiqStn-Hwbx/view?usp=sharing">
-  <img src="https://img.shields.io/badge/resume-view-161b22?style=flat-square&logo=readthedocs&logoColor=8b949e&labelColor=161b22&color=21262d"/>
+ 
+<a href="https://drive.google.com/...">
+  <img src="https://img.shields.io/badge/Resume-View-1f6feb?style=for-the-badge
+  &logo=readdotcv&logoColor=white" alt="Resume"/>
 </a>
 
 </div>
